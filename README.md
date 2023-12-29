@@ -19,4 +19,6 @@ This is the beginning of my journey into Python and Programming, this is a recor
 You will be marked on the efficiency as well as the complexity of your code, so plan the program well to incorporate more than just the basics but without losing efficiency.
 You will also be marked on code structure, variable types and your understanding of what they are, naming conventions and comments.
 
+(70% of assignment)
+
 
