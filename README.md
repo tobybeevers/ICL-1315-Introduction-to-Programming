@@ -22,6 +22,7 @@ You will also be marked on code structure, variable types and your understanding
 (70% of assignment)
 
 **Associated Files**
+[Assignment One - Program One (Variable Types with IF)](https://github.com/tobybeevers/Introduction_to_Python/blob/main/Assignment%20One%20-%20Program%20One%20(Variable%20Types%20with%20IF).py)
+[Assignment One - Program One (Variable Types with IF (more advanced)](https://github.com/tobybeevers/Introduction_to_Python/blob/main/Assignment%20One%20-%20Program%20One%20(Variable%20Types%20with%20IF%20(more%20advanced)).py)
 
-<Assignment One - Program One (Variable Types with IF (more advanced)).py>
-
+[Assignment One - Program Two (Variable Types with IF AND)](https://github.com/tobybeevers/Introduction_to_Python/blob/main/Assignment%20One%20-%20Program%20Two%20(Variable%20Types%20with%20IF%20AND).py)
